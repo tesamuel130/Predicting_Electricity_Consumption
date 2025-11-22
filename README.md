@@ -8,4 +8,4 @@
 | Rekik Alemayehu      | ATE/2752/14  |
 | Yeabsira Eyob        | ATE/1640/14  |
 
-<a href="https://docs.google.com/document/d/1xh1rpa1oZIwU5-rHkduDtFmMFEgB13AdPvm1Z1jGcUw/edit?tab=t.0">Documentation for the project.</a>
+<a href="https://docs.google.com/document/d/15VtmetAUU9rweWihcS_sOsyDPTVIQXptOde7GLYzOMM/edit?usp=sharing">Documentation for the project.</a>
